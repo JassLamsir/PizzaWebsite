@@ -31,7 +31,7 @@
 }
 
 .headerContainer a {
-    padding: 0;
+    padding: 15px;
     font-size: 40px;
     font-weight: lighter;
     color: rgb(255, 0, 0);
